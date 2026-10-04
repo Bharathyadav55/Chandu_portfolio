@@ -19,7 +19,7 @@ const works = [
       "Complete Creative Direction & Editing Execution"
     ],
     image: card1,
-    videoUrl: "https://youtu.be/xRgASnZiQbI?si=4VQOrDOezU_G3s_E"
+    videoUrl: "https://www.youtube-nocookie.com/embed/xRgASnZiQbI"
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ const works = [
       "Stylized Visual Tone & Rhythm Editing"
     ],
     image: card2,
-    videoUrl: "https://youtu.be/afGYbRwpQF4?si=KjYSqWsJBtzdKH_p"
+    videoUrl: "https://www.youtube-nocookie.com/embed/afGYbRwpQF4"
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ const works = [
       "Psychological Character Arc & Climax Staging"
     ],
     image: card3,
-    videoUrl: "https://youtu.be/ogjjfSFrzf4?si=uambjipJId8k0ynU"
+    videoUrl: "https://www.youtube-nocookie.com/embed/ogjjfSFrzf4"
   }
 ];
 
