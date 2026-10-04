@@ -15,7 +15,7 @@ export default function Home() {
       <div className="relative z-10 max-w-7xl mx-auto h-full px-6 md:px-12 pb-12 sm:pb-16 flex flex-col justify-end items-end pointer-events-none">
         <div className="max-w-xl space-y-3 text-right">
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl tracking-tight leading-[0.9] text-black uppercase drop-shadow-md">
-            Srinivas
+            Chandu
             <span className="block font-serif font-light text-black">
                 Allamalla
             </span>

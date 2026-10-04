@@ -42,7 +42,7 @@ export default function NavBar() {
           href="#home"
           className="font-serif text-2xl font-bold tracking-widest text-white uppercase hover:text-neutral-300 transition-colors"
         >
-          SRINIVAS ALLAMALLA
+          CHANDU ALLAMALLA
         </a>
 
         {/* Desktop Navigation Links */}
