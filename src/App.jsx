@@ -3,6 +3,7 @@ import NavBar from './components/NavBar';
 import Home from './components/Home';
 import About from './components/About';
 import Work from './components/Work';
+import Resume from './components/Resume';
 import Contact from './components/Contact';
 
 export default function App() {
@@ -13,6 +14,7 @@ export default function App() {
         <Home />
         <About />
         <Work />
+        <Resume />
       </main>
       <Contact />
     </div>

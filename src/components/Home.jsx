@@ -1,5 +1,6 @@
 import React from 'react';
-import homeImg from '../assets/ACS_Home.jpg';
+// import homeImg from '../assets/ACS_Home.jpg';
+import homeImg from "../assets/ACS_Home.png"; // Ensure the path is correct based on your project structure
 
 export default function Home() {
   return (
